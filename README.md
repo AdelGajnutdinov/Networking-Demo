@@ -4,3 +4,5 @@ Swift networking demo project of using following frameworks and APIs:
 - Facebook SDK
 - GoogleSignIn
 - Alamofire
+
+Log in using your Facebook/Google account or register by email.
